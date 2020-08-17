@@ -1,0 +1,1097 @@
+[
+    {
+        "name": "aioquic/dl10_bw10_q10_reo500",
+        "sim": "qns",
+        "mdn_goodput": 8108.7396343596565,
+        "mdn_throughput": 8618.360971900767,
+        "mdn_rtt": 27.05741379310345,
+        "mdn_cwnd": 31416.12293488824,
+        "mdn_rttvar": 10.295005917159765,
+        "mdn_retransmissions": 34,
+        "mdn_spurious_retrans": 4,
+        "mdn_rack_timer": 34.63541769436997,
+        "mdn_probe_timer": 94.04437412775094,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 8336.612755290442,
+                "avg_throughput": 8856.537029613673,
+                "avg_rtt": 27.05741379310345,
+                "avg_cwnd": 32464.530365035193,
+                "avg_rttvar": 12.10295457033388,
+                "retransmissions": 31,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 34.63541769436997,
+                "avg_probe_timer": 100.85146082191781,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 26
+                }
+            },
+            {
+                "avg_goodput": 8108.7396343596565,
+                "avg_throughput": 8618.360971900767,
+                "avg_rtt": 26.691738312735087,
+                "avg_cwnd": 31416.12293488824,
+                "avg_rttvar": 9.976240193444385,
+                "retransmissions": 34,
+                "spurious_retrans": 4,
+                "avg_rack_timer": 34.174553392951076,
+                "avg_probe_timer": 91.93249517684887,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 28
+                }
+            },
+            {
+                "avg_goodput": 8279.210443196662,
+                "avg_throughput": 8800.89726312266,
+                "avg_rtt": 27.09703227571116,
+                "avg_cwnd": 32360.904031336708,
+                "avg_rttvar": 11.958876914660832,
+                "retransmissions": 38,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 34.70802521459227,
+                "avg_probe_timer": 100.26111044286496,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 29
+                }
+            },
+            {
+                "avg_goodput": 7653.534328408739,
+                "avg_throughput": 8127.291606851593,
+                "avg_rtt": 27.596218396987627,
+                "avg_cwnd": 31268.665023011177,
+                "avg_rttvar": 10.295005917159765,
+                "retransmissions": 32,
+                "spurious_retrans": 4,
+                "avg_rack_timer": 36.02834773445733,
+                "avg_probe_timer": 94.04437412775094,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 27
+                }
+            },
+            {
+                "avg_goodput": 7939.840211276113,
+                "avg_throughput": 8440.813506917426,
+                "avg_rtt": 26.44807894736842,
+                "avg_cwnd": 30491.091942976134,
+                "avg_rttvar": 10.16168842105263,
+                "retransmissions": 36,
+                "spurious_retrans": 5,
+                "avg_rack_timer": 33.81323184647303,
+                "avg_probe_timer": 92.44998948475289,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 28
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl10_bw10_q10_reo500",
+        "sim": "min",
+        "mdn_goodput": 3453.060314859768,
+        "mdn_throughput": 3942.5404522755066,
+        "mdn_rtt": 22.098875066737854,
+        "mdn_cwnd": 11533.222772277228,
+        "mdn_rttvar": 9.039166577682861,
+        "mdn_retransmissions": 178,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 28.074967810026383,
+        "mdn_probe_timer": 83.7764894493052,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 3441.8081502567984,
+                "avg_throughput": 3942.5404522755066,
+                "avg_rtt": 22.10694623655914,
+                "avg_cwnd": 11507.560437889615,
+                "avg_rttvar": 9.05634623655914,
+                "retransmissions": 179,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.0924832357637,
+                "avg_probe_timer": 83.8729781363873,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 152
+                }
+            },
+            {
+                "avg_goodput": 3490.2471281267044,
+                "avg_throughput": 3989.6025929836314,
+                "avg_rtt": 22.098875066737854,
+                "avg_cwnd": 11656.0210783565,
+                "avg_rttvar": 9.039166577682861,
+                "retransmissions": 169,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.074967810026383,
+                "avg_probe_timer": 83.7764894493052,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 148
+                }
+            },
+            {
+                "avg_goodput": 3453.060314859768,
+                "avg_throughput": 3939.9318204226056,
+                "avg_rtt": 21.855642268041237,
+                "avg_cwnd": 11296.848091718208,
+                "avg_rttvar": 8.515757216494846,
+                "retransmissions": 179,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 27.733670576236616,
+                "avg_probe_timer": 81.36155206776283,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 140
+                }
+            },
+            {
+                "avg_goodput": 3463.5814537615674,
+                "avg_throughput": 3952.7693261541135,
+                "avg_rtt": 22.093044276457885,
+                "avg_cwnd": 11533.222772277228,
+                "avg_rttvar": 8.29160475161987,
+                "retransmissions": 161,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.05589823245849,
+                "avg_probe_timer": 80.73451197916667,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 142
+                }
+            },
+            {
+                "avg_goodput": 3442.343974315285,
+                "avg_throughput": 3938.4043652642345,
+                "avg_rtt": 22.110825211864405,
+                "avg_cwnd": 11635.265663017031,
+                "avg_rttvar": 9.066134004237288,
+                "retransmissions": 178,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.114653543307085,
+                "avg_probe_timer": 83.87601121876594,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 150
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl5_bw10_q5_reo500",
+        "sim": "qns",
+        "mdn_goodput": 7993.283871559102,
+        "mdn_throughput": 8729.808299006667,
+        "mdn_rtt": 14.903888543286678,
+        "mdn_cwnd": 18730.185561497325,
+        "mdn_rttvar": 1.1347809425168307,
+        "mdn_retransmissions": 52,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 19.5452578125,
+        "mdn_probe_timer": 44.71840203303685,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 8003.80553767294,
+                "avg_throughput": 8743.69915672719,
+                "avg_rtt": 14.903888543286678,
+                "avg_cwnd": 18730.185561497325,
+                "avg_rttvar": 1.121917055469155,
+                "retransmissions": 53,
+                "spurious_retrans": 4,
+                "avg_rack_timer": 19.50840747577296,
+                "avg_probe_timer": 44.669549503690504,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 53
+                }
+            },
+            {
+                "avg_goodput": 7993.283871559102,
+                "avg_throughput": 8729.808299006667,
+                "avg_rtt": 14.92690625,
+                "avg_cwnd": 18809.567683253077,
+                "avg_rttvar": 1.1450673277661794,
+                "retransmissions": 52,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 19.58199953488372,
+                "avg_probe_timer": 44.80373481368045,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 52
+                }
+            },
+            {
+                "avg_goodput": 7947.3248709559575,
+                "avg_throughput": 8684.000617760867,
+                "avg_rtt": 14.906458762886597,
+                "avg_cwnd": 18717.690792974987,
+                "avg_rttvar": 1.1439005154639177,
+                "retransmissions": 54,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 19.5452578125,
+                "avg_probe_timer": 44.739138289774175,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 54
+                }
+            },
+            {
+                "avg_goodput": 7983.254679050369,
+                "avg_throughput": 8710.040613996254,
+                "avg_rtt": 14.801566580976864,
+                "avg_cwnd": 18538.022703273495,
+                "avg_rttvar": 1.10316443987667,
+                "retransmissions": 48,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 19.375754604051565,
+                "avg_probe_timer": 44.489582683111,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 48
+                }
+            },
+            {
+                "avg_goodput": 8007.221943722878,
+                "avg_throughput": 8743.055495049575,
+                "avg_rtt": 14.902269430051815,
+                "avg_cwnd": 18792.408021390373,
+                "avg_rttvar": 1.1347809425168307,
+                "retransmissions": 51,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 19.56178466483012,
+                "avg_probe_timer": 44.71840203303685,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 53
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl5_bw10_q5_reo500",
+        "sim": "min",
+        "mdn_goodput": 3124.5691381551956,
+        "mdn_throughput": 4146.29393478632,
+        "mdn_rtt": 11.885255342465753,
+        "mdn_cwnd": 7272.320498301246,
+        "mdn_rttvar": 0.6029884551951622,
+        "mdn_retransmissions": 282,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 15.40434985279686,
+        "mdn_probe_timer": 39.58293754740834,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 3097.7438191143583,
+                "avg_throughput": 4087.5532779058294,
+                "avg_rtt": 11.915052603036877,
+                "avg_cwnd": 7170.451722190853,
+                "avg_rttvar": 0.6218694232861807,
+                "retransmissions": 276,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.502600197921822,
+                "avg_probe_timer": 39.68423133198789,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 279
+                }
+            },
+            {
+                "avg_goodput": 3113.393980375021,
+                "avg_throughput": 4113.095590585571,
+                "avg_rtt": 11.901280368763556,
+                "avg_cwnd": 7214.009620826259,
+                "avg_rttvar": 0.602513029315961,
+                "retransmissions": 279,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.335775062344139,
+                "avg_probe_timer": 39.58293754740834,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 281
+                }
+            },
+            {
+                "avg_goodput": 3130.1748931287157,
+                "avg_throughput": 4146.29393478632,
+                "avg_rtt": 11.867889254385966,
+                "avg_cwnd": 7272.320498301246,
+                "avg_rttvar": 0.6029884551951622,
+                "retransmissions": 286,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.4026814556331,
+                "avg_probe_timer": 39.56807244534825,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 289
+                }
+            },
+            {
+                "avg_goodput": 3124.5691381551956,
+                "avg_throughput": 4155.233381331793,
+                "avg_rtt": 11.885255342465753,
+                "avg_cwnd": 7300.34693877551,
+                "avg_rttvar": 0.6122968664101154,
+                "retransmissions": 293,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.435873323397912,
+                "avg_probe_timer": 39.60285736079329,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 296
+                }
+            },
+            {
+                "avg_goodput": 3139.227007762143,
+                "avg_throughput": 4153.50261218521,
+                "avg_rtt": 11.875200000000001,
+                "avg_cwnd": 7314.233634311512,
+                "avg_rttvar": 0.5900289143480633,
+                "retransmissions": 282,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.40434985279686,
+                "avg_probe_timer": 39.50967732997481,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 286,
+                    "pto_expired": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl25_bw10_q24_reo500",
+        "sim": "qns",
+        "mdn_goodput": 8040.535545473279,
+        "mdn_throughput": 8817.417376880865,
+        "mdn_rtt": 60.439830489818384,
+        "mdn_cwnd": 72426.83826638477,
+        "mdn_rttvar": 1.6480961645358532,
+        "mdn_retransmissions": 71,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 77.94315040456925,
+        "mdn_probe_timer": 92.0568924760602,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 8040.535545473279,
+                "avg_throughput": 8817.417376880865,
+                "avg_rtt": 60.439830489818384,
+                "avg_cwnd": 72426.83826638477,
+                "avg_rttvar": 1.6219668691330758,
+                "retransmissions": 69,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 77.94315040456925,
+                "avg_probe_timer": 92.0568924760602,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 70
+                }
+            },
+            {
+                "avg_goodput": 7818.314388854083,
+                "avg_throughput": 8577.976357704916,
+                "avg_rtt": 59.437137527839646,
+                "avg_cwnd": 70320.42857142857,
+                "avg_rttvar": 1.7299083798882682,
+                "retransmissions": 71,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 76.88164935064935,
+                "avg_probe_timer": 91.45051092669434,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 74
+                }
+            },
+            {
+                "avg_goodput": 7875.811010660613,
+                "avg_throughput": 8636.609008642994,
+                "avg_rtt": 59.91355285002767,
+                "avg_cwnd": 70990.43746701846,
+                "avg_rttvar": 1.680884210526316,
+                "retransmissions": 69,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 77.27454295366796,
+                "avg_probe_timer": 91.61420539647577,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 69
+                }
+            },
+            {
+                "avg_goodput": 8093.753430356428,
+                "avg_throughput": 8882.394377949742,
+                "avg_rtt": 61.49513451917732,
+                "avg_cwnd": 73995.7530407192,
+                "avg_rttvar": 1.6480961645358532,
+                "retransmissions": 72,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 78.69453838771594,
+                "avg_probe_timer": 93.18969635962493,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 72
+                }
+            },
+            {
+                "avg_goodput": 8111.071837787278,
+                "avg_throughput": 8899.20578973606,
+                "avg_rtt": 61.41643495038589,
+                "avg_cwnd": 74109.03588390502,
+                "avg_rttvar": 1.6422825607064018,
+                "retransmissions": 71,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 79.00397998093422,
+                "avg_probe_timer": 92.93023284651419,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 71
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl25_bw10_q24_reo500",
+        "sim": "min",
+        "mdn_goodput": 3360.4090379358227,
+        "mdn_throughput": 4066.105267722182,
+        "mdn_rtt": 52.06210043907794,
+        "mdn_cwnd": 28358.132859486057,
+        "mdn_rttvar": 0.9302427237781439,
+        "mdn_retransmissions": 70,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 65.5488255,
+        "mdn_probe_timer": 81.20049840595112,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 3320.6557696115565,
+                "avg_throughput": 3991.3714723633707,
+                "avg_rtt": 52.482498898678415,
+                "avg_cwnd": 28275.614025400333,
+                "avg_rttvar": 1.0603690869086908,
+                "retransmissions": 70,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 66.2246423907584,
+                "avg_probe_timer": 82.11128689397975,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 71
+                }
+            },
+            {
+                "avg_goodput": 3363.260070334332,
+                "avg_throughput": 4066.105267722182,
+                "avg_rtt": 52.28701526717557,
+                "avg_cwnd": 28713.44505194095,
+                "avg_rttvar": 1.0690856519367158,
+                "retransmissions": 70,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.95048079800497,
+                "avg_probe_timer": 81.91345377483444,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 71
+                }
+            },
+            {
+                "avg_goodput": 3344.2668640649554,
+                "avg_throughput": 4023.424098213407,
+                "avg_rtt": 51.9743204359673,
+                "avg_cwnd": 28045.904272579774,
+                "avg_rttvar": 0.8998949373979314,
+                "retransmissions": 69,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.44308824987606,
+                "avg_probe_timer": 80.98820823498558,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 70
+                }
+            },
+            {
+                "avg_goodput": 3360.4090379358227,
+                "avg_throughput": 4069.852404265611,
+                "avg_rtt": 52.06210043907794,
+                "avg_cwnd": 28358.132859486057,
+                "avg_rttvar": 0.9302427237781439,
+                "retransmissions": 72,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.5488255,
+                "avg_probe_timer": 81.20049840595112,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 73
+                }
+            },
+            {
+                "avg_goodput": 3513.012673341299,
+                "avg_throughput": 4243.21224912155,
+                "avg_rtt": 51.98797111716621,
+                "avg_cwnd": 29789.558378378377,
+                "avg_rttvar": 0.8911605005440697,
+                "retransmissions": 69,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.46939158415842,
+                "avg_probe_timer": 80.9562166929963,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 70
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl5_bw10_q5_reo500",
+        "sim": "qns",
+        "mdn_goodput": 8030.831867180801,
+        "mdn_throughput": 8585.131473365089,
+        "mdn_rtt": 15.14334843026248,
+        "mdn_cwnd": 18317.601304071246,
+        "mdn_rttvar": 4.935745308310993,
+        "mdn_retransmissions": 63,
+        "mdn_spurious_retrans": 1,
+        "mdn_rack_timer": 19.662108860759496,
+        "mdn_probe_timer": 60.6379474801061,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 7934.7370710079,
+                "avg_throughput": 8465.058930481497,
+                "avg_rtt": 15.289421447721178,
+                "avg_cwnd": 18523.08966416694,
+                "avg_rttvar": 4.935745308310993,
+                "retransmissions": 56,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 19.888907124010554,
+                "avg_probe_timer": 60.6379474801061,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 47
+                }
+            },
+            {
+                "avg_goodput": 8122.597723857406,
+                "avg_throughput": 8670.076857678034,
+                "avg_rtt": 15.301043868921775,
+                "avg_cwnd": 18734.89217588102,
+                "avg_rttvar": 4.329630549682875,
+                "retransmissions": 58,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 19.89679459178367,
+                "avg_probe_timer": 58.18663246073298,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 46
+                }
+            },
+            {
+                "avg_goodput": 7983.4562529051755,
+                "avg_throughput": 8546.395187042574,
+                "avg_rtt": 15.095879714576963,
+                "avg_cwnd": 18253.56123737374,
+                "avg_rttvar": 6.019832313965341,
+                "retransmissions": 70,
+                "spurious_retrans": 4,
+                "avg_rack_timer": 19.60690280561122,
+                "avg_probe_timer": 64.69750303951368,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 57
+                }
+            },
+            {
+                "avg_goodput": 8098.6816463353325,
+                "avg_throughput": 8659.562788793535,
+                "avg_rtt": 15.062633638211382,
+                "avg_cwnd": 18271.911083281153,
+                "avg_rttvar": 4.690145325203252,
+                "retransmissions": 70,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 19.518312468703055,
+                "avg_probe_timer": 59.31787487386478,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 53
+                }
+            },
+            {
+                "avg_goodput": 8030.831867180801,
+                "avg_throughput": 8585.131473365089,
+                "avg_rtt": 15.14334843026248,
+                "avg_cwnd": 18317.601304071246,
+                "avg_rttvar": 5.500455481214616,
+                "retransmissions": 63,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 19.662108860759496,
+                "avg_probe_timer": 62.688882924335374,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 53
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl5_bw10_q5_reo500",
+        "sim": "min",
+        "mdn_goodput": 2786.495921191553,
+        "mdn_throughput": 3644.533269692728,
+        "mdn_rtt": 11.733037717601547,
+        "mdn_cwnd": 6177.367732558139,
+        "mdn_rttvar": 4.261226789168279,
+        "mdn_retransmissions": 611,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 15.143987487969202,
+        "mdn_probe_timer": 54.283959569892474,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 2786.495921191553,
+                "avg_throughput": 3635.664046108828,
+                "avg_rtt": 11.88750075263422,
+                "avg_cwnd": 6241.575104654026,
+                "avg_rttvar": 4.177639739086804,
+                "retransmissions": 595,
+                "spurious_retrans": 2,
+                "avg_rack_timer": 15.325737368684342,
+                "avg_probe_timer": 54.10567900133749,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 560
+                }
+            },
+            {
+                "avg_goodput": 2705.172064842178,
+                "avg_throughput": 3584.010463194472,
+                "avg_rtt": 11.799024031387935,
+                "avg_cwnd": 6116.1668866226755,
+                "avg_rttvar": 4.286026483570377,
+                "retransmissions": 650,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.20920263671875,
+                "avg_probe_timer": 54.378700520833334,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 604
+                }
+            },
+            {
+                "avg_goodput": 2809.685137882541,
+                "avg_throughput": 3687.8753949745687,
+                "avg_rtt": 11.644596440596441,
+                "avg_cwnd": 6213.9770420493,
+                "avg_rttvar": 4.175322751322751,
+                "retransmissions": 611,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 14.963952540747844,
+                "avg_probe_timer": 53.82096633143857,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 563
+                }
+            },
+            {
+                "avg_goodput": 2786.038542193617,
+                "avg_throughput": 3644.533269692728,
+                "avg_rtt": 11.717085199610516,
+                "avg_cwnd": 6177.367732558139,
+                "avg_rttvar": 4.285790652385589,
+                "retransmissions": 605,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.07296274794388,
+                "avg_probe_timer": 54.3577750952986,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 581
+                }
+            },
+            {
+                "avg_goodput": 2789.0009577778624,
+                "avg_throughput": 3649.852554789651,
+                "avg_rtt": 11.733037717601547,
+                "avg_cwnd": 6174.820624546115,
+                "avg_rttvar": 4.261226789168279,
+                "retransmissions": 618,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 15.143987487969202,
+                "avg_probe_timer": 54.283959569892474,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 565
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl25_bw10_q24_reo500",
+        "sim": "qns",
+        "mdn_goodput": 8239.149737294323,
+        "mdn_throughput": 8930.812323692657,
+        "mdn_rtt": 62.992334304018634,
+        "mdn_cwnd": 78833.2587389742,
+        "mdn_rttvar": 25.854608932461872,
+        "mdn_retransmissions": 116,
+        "mdn_spurious_retrans": 2,
+        "mdn_rack_timer": 79.77104634282524,
+        "mdn_probe_timer": 187.02823789346246,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 8225.653879383446,
+                "avg_throughput": 8930.299137796383,
+                "avg_rtt": 63.231137152777784,
+                "avg_cwnd": 79151.2673957838,
+                "avg_rttvar": 25.451666087962963,
+                "retransmissions": 128,
+                "spurious_retrans": 4,
+                "avg_rack_timer": 79.97087084257207,
+                "avg_probe_timer": 187.02823789346246,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 111
+                }
+            },
+            {
+                "avg_goodput": 8239.149737294323,
+                "avg_throughput": 8930.812323692657,
+                "avg_rtt": 62.992334304018634,
+                "avg_cwnd": 78165.91860465116,
+                "avg_rttvar": 24.865081537565523,
+                "retransmissions": 123,
+                "spurious_retrans": 2,
+                "avg_rack_timer": 79.77104634282524,
+                "avg_probe_timer": 184.3774678398058,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 105
+                }
+            },
+            {
+                "avg_goodput": 7747.007375299241,
+                "avg_throughput": 8345.19581528641,
+                "avg_rtt": 60.93734259259259,
+                "avg_cwnd": 71760.70205371248,
+                "avg_rttvar": 25.854608932461872,
+                "retransmissions": 95,
+                "spurious_retrans": 2,
+                "avg_rack_timer": 77.28329785002623,
+                "avg_probe_timer": 186.9390358543417,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 80
+                }
+            },
+            {
+                "avg_goodput": 8313.837815434157,
+                "avg_throughput": 8971.10766633282,
+                "avg_rtt": 63.3859056712963,
+                "avg_cwnd": 80046.26733635775,
+                "avg_rttvar": 26.873266203703704,
+                "retransmissions": 116,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 80.35389549749861,
+                "avg_probe_timer": 192.0287594167679,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 94
+                }
+            },
+            {
+                "avg_goodput": 8322.19463969782,
+                "avg_throughput": 8953.900589485836,
+                "avg_rtt": 62.93072700983227,
+                "avg_cwnd": 78833.2587389742,
+                "avg_rttvar": 28.469786581839212,
+                "retransmissions": 98,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 79.7111360619469,
+                "avg_probe_timer": 198.79751085645356,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 82
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl25_bw10_q24_reo500",
+        "sim": "min",
+        "mdn_goodput": 3730.049015913168,
+        "mdn_throughput": 4085.7981011379725,
+        "mdn_rtt": 51.897680482686255,
+        "mdn_cwnd": 27485.647916666665,
+        "mdn_rttvar": 21.990646121147716,
+        "mdn_retransmissions": 55,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 65.29229303278689,
+        "mdn_probe_timer": 165.15646600934096,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 3758.0808920971604,
+                "avg_throughput": 4107.735753130012,
+                "avg_rtt": 51.897680482686255,
+                "avg_cwnd": 27806.335127201564,
+                "avg_rttvar": 22.01347534102833,
+                "retransmissions": 48,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.29229303278689,
+                "avg_probe_timer": 165.15646600934096,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 45
+                }
+            },
+            {
+                "avg_goodput": 3860.396077584284,
+                "avg_throughput": 4222.923009278943,
+                "avg_rtt": 51.83871683272155,
+                "avg_cwnd": 28937.807299270073,
+                "avg_rttvar": 21.94199160985842,
+                "retransmissions": 52,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.22845010288066,
+                "avg_probe_timer": 164.8976921875,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 47
+                }
+            },
+            {
+                "avg_goodput": 3542.537532061867,
+                "avg_throughput": 3882.578921236221,
+                "avg_rtt": 51.99527311370882,
+                "avg_cwnd": 25815.27260981912,
+                "avg_rttvar": 21.990646121147716,
+                "retransmissions": 55,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.3992301710731,
+                "avg_probe_timer": 165.35262427745664,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 49
+                }
+            },
+            {
+                "avg_goodput": 3730.049015913168,
+                "avg_throughput": 4085.7981011379725,
+                "avg_rtt": 51.8280614213198,
+                "avg_cwnd": 27485.647916666665,
+                "avg_rttvar": 21.98863147208122,
+                "retransmissions": 56,
+                "spurious_retrans": 4,
+                "avg_rack_timer": 65.24461016949152,
+                "avg_probe_timer": 165.0767443721861,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 51
+                }
+            },
+            {
+                "avg_goodput": 3578.8757046216065,
+                "avg_throughput": 3934.8553374074736,
+                "avg_rtt": 51.994579414838036,
+                "avg_cwnd": 26315.70499194847,
+                "avg_rttvar": 22.136646290491118,
+                "retransmissions": 62,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.44394529652352,
+                "avg_probe_timer": 165.8870600414079,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 56
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl10_bw10_q10_reo500",
+        "sim": "qns",
+        "mdn_goodput": 8102.6469492245205,
+        "mdn_throughput": 8837.723786240731,
+        "mdn_rtt": 26.899955037919828,
+        "mdn_cwnd": 32579.958740499456,
+        "mdn_rttvar": 1.2886401084010841,
+        "mdn_retransmissions": 47,
+        "mdn_spurious_retrans": 1,
+        "mdn_rack_timer": 34.964247087378645,
+        "mdn_probe_timer": 57.36174071103983,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 8177.129143711516,
+                "avg_throughput": 8916.828161834082,
+                "avg_rtt": 26.899955037919828,
+                "avg_cwnd": 33122.10973641743,
+                "avg_rttvar": 1.2886401084010841,
+                "retransmissions": 46,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 34.964247087378645,
+                "avg_probe_timer": 57.36174071103983,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 51
+                }
+            },
+            {
+                "avg_goodput": 8288.198711994512,
+                "avg_throughput": 9031.304313953317,
+                "avg_rtt": 27.139502176278565,
+                "avg_cwnd": 33553.24457700651,
+                "avg_rttvar": 1.25471031096563,
+                "retransmissions": 43,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 35.17152675097277,
+                "avg_probe_timer": 57.48146822204344,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 43
+                }
+            },
+            {
+                "avg_goodput": 7752.450618471446,
+                "avg_throughput": 8461.735149784648,
+                "avg_rtt": 27.291704187058187,
+                "avg_cwnd": 32579.958740499456,
+                "avg_rttvar": 2.201488574537541,
+                "retransmissions": 50,
+                "spurious_retrans": 2,
+                "avg_rack_timer": 36.40452539912918,
+                "avg_probe_timer": 61.64980616621984,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 51,
+                    "pto_expired": 1
+                }
+            },
+            {
+                "avg_goodput": 8055.8131577393015,
+                "avg_throughput": 8786.518300818198,
+                "avg_rtt": 26.691966684871655,
+                "avg_cwnd": 32416.983087834153,
+                "avg_rttvar": 1.3179437465865647,
+                "retransmissions": 47,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 34.69866195811008,
+                "avg_probe_timer": 57.2960939778558,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 52
+                }
+            },
+            {
+                "avg_goodput": 8102.6469492245205,
+                "avg_throughput": 8837.723786240731,
+                "avg_rtt": 26.631309600863,
+                "avg_cwnd": 32444.815789473683,
+                "avg_rttvar": 1.2473050755939525,
+                "retransmissions": 47,
+                "spurious_retrans": 1,
+                "avg_rack_timer": 34.48513892908828,
+                "avg_probe_timer": 56.97246157936719,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 54
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl10_bw10_q10_reo500",
+        "sim": "min",
+        "mdn_goodput": 3299.219897220175,
+        "mdn_throughput": 4084.7704606683133,
+        "mdn_rtt": 22.137815673289182,
+        "mdn_cwnd": 12749.52380952381,
+        "mdn_rttvar": 0.8608181818181818,
+        "mdn_retransmissions": 141,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 28.17366649746193,
+        "mdn_probe_timer": 50.91047765435288,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 3278.546935616705,
+                "avg_throughput": 4062.2448857144846,
+                "avg_rtt": 22.137815673289182,
+                "avg_cwnd": 12626.474507531866,
+                "avg_rttvar": 0.8608181818181818,
+                "retransmissions": 142,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.17366649746193,
+                "avg_probe_timer": 50.91047765435288,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 143
+                }
+            },
+            {
+                "avg_goodput": 3299.219897220175,
+                "avg_throughput": 4084.7704606683133,
+                "avg_rtt": 22.284636621315194,
+                "avg_cwnd": 12839.934202726734,
+                "avg_rttvar": 0.9212197614991483,
+                "retransmissions": 141,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.37182044628957,
+                "avg_probe_timer": 51.28926528991263,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 143
+                }
+            },
+            {
+                "avg_goodput": 3229.2057701992894,
+                "avg_throughput": 3997.7129017089155,
+                "avg_rtt": 22.28244109277177,
+                "avg_cwnd": 12588.504451038576,
+                "avg_rttvar": 0.968066552901024,
+                "retransmissions": 144,
+                "spurious_retrans": 2,
+                "avg_rack_timer": 28.492924391506993,
+                "avg_probe_timer": 51.47535564409031,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 143,
+                    "pto_expired": 1
+                }
+            },
+            {
+                "avg_goodput": 3357.8129887642167,
+                "avg_throughput": 4155.498599792992,
+                "avg_rtt": 22.08358117776555,
+                "avg_cwnd": 12885.147295742232,
+                "avg_rttvar": 0.805625,
+                "retransmissions": 135,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.05597294589178,
+                "avg_probe_timer": 50.63610462412813,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 136
+                }
+            },
+            {
+                "avg_goodput": 3308.5240826376616,
+                "avg_throughput": 4100.045257189531,
+                "avg_rtt": 22.026173333333332,
+                "avg_cwnd": 12749.52380952381,
+                "avg_rttvar": 0.8366979455857857,
+                "retransmissions": 141,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 28.011990394337715,
+                "avg_probe_timer": 50.69918155918156,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 142
+                }
+            }
+        ]
+    }
+]

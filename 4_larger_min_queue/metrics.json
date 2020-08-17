@@ -1,0 +1,1687 @@
+[
+    {
+        "name": "aioquic/dl2_bw5_q25-28",
+        "sim": "min",
+        "mdn_goodput": 4106.454862041589,
+        "mdn_throughput": 4537.171345214539,
+        "mdn_rtt": 44.93021503680336,
+        "mdn_cwnd": 28701.264515355087,
+        "mdn_rttvar": 37.221495793901155,
+        "mdn_retransmissions": 92,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 51.380609698558324,
+        "mdn_probe_timer": 218.41171715569652,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 4091.2289129390488,
+                "avg_throughput": 4531.282575542961,
+                "avg_rtt": 43.858360916442045,
+                "avg_cwnd": 27963.153342070775,
+                "avg_rttvar": 36.28694366576819,
+                "retransmissions": 96,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 50.252624697986576,
+                "avg_probe_timer": 213.606360983518,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 51,
+                    "time_threshold": 15
+                }
+            },
+            {
+                "avg_goodput": 4106.056254096771,
+                "avg_throughput": 4537.171345214539,
+                "avg_rtt": 44.75577792343996,
+                "avg_cwnd": 28504.183661228406,
+                "avg_rttvar": 37.100366282118515,
+                "retransmissions": 92,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 51.17618022495422,
+                "avg_probe_timer": 217.58863607594935,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 54,
+                    "time_threshold": 11
+                }
+            },
+            {
+                "avg_goodput": 4106.454862041589,
+                "avg_throughput": 4536.789153979281,
+                "avg_rtt": 44.93021503680336,
+                "avg_cwnd": 28701.264515355087,
+                "avg_rttvar": 37.221495793901155,
+                "retransmissions": 93,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 51.380609698558324,
+                "avg_probe_timer": 218.41171715569652,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 53,
+                    "time_threshold": 11
+                }
+            },
+            {
+                "avg_goodput": 4113.29081860466,
+                "avg_throughput": 4540.812709107692,
+                "avg_rtt": 46.06801347848626,
+                "avg_cwnd": 29363.5453331715,
+                "avg_rttvar": 38.471217729393466,
+                "retransmissions": 86,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.62674554378713,
+                "avg_probe_timer": 224.56441809672387,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 46,
+                    "time_threshold": 14
+                }
+            },
+            {
+                "avg_goodput": 4113.0899745527,
+                "avg_throughput": 4543.5232115640965,
+                "avg_rtt": 46.059285751228344,
+                "avg_cwnd": 29413.313891577927,
+                "avg_rttvar": 38.33229325058185,
+                "retransmissions": 89,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.60360082516761,
+                "avg_probe_timer": 223.85719896103896,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 51,
+                    "time_threshold": 12
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl2_bw5_q25-28",
+        "sim": "qns",
+        "mdn_goodput": 4635.982417172885,
+        "mdn_throughput": 4956.809971363321,
+        "mdn_rtt": 45.9203358433735,
+        "mdn_cwnd": 29627.91007569825,
+        "mdn_rttvar": 35.88123918342474,
+        "mdn_retransmissions": 71,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 52.659964938567576,
+        "mdn_probe_timer": 214.24084908536585,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 4636.07884004045,
+                "avg_throughput": 4956.809971363321,
+                "avg_rtt": 45.9764122833688,
+                "avg_cwnd": 29627.91007569825,
+                "avg_rttvar": 35.57863545150502,
+                "retransmissions": 67,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.73477787878788,
+                "avg_probe_timer": 213.091697080292,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 42,
+                    "time_threshold": 12
+                }
+            },
+            {
+                "avg_goodput": 4630.84643159955,
+                "avg_throughput": 4956.378775112343,
+                "avg_rtt": 46.049065204143815,
+                "avg_cwnd": 29732.044754697286,
+                "avg_rttvar": 35.88123918342474,
+                "retransmissions": 75,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.80166808252427,
+                "avg_probe_timer": 214.24084908536585,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 43,
+                    "time_threshold": 17
+                }
+            },
+            {
+                "avg_goodput": 4634.9370225067105,
+                "avg_throughput": 4958.3601080760145,
+                "avg_rtt": 45.9203358433735,
+                "avg_cwnd": 29628.817945383616,
+                "avg_rttvar": 35.561019277108436,
+                "retransmissions": 77,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.659964938567576,
+                "avg_probe_timer": 212.82947784142297,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 20,
+                    "packet_threshold": 38
+                }
+            },
+            {
+                "avg_goodput": 4635.982417172885,
+                "avg_throughput": 4960.795923226098,
+                "avg_rtt": 45.66108640097353,
+                "avg_cwnd": 29476.01003257329,
+                "avg_rttvar": 36.89915667782172,
+                "retransmissions": 71,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.419088458043014,
+                "avg_probe_timer": 217.96508830694276,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 42,
+                    "time_threshold": 17
+                }
+            },
+            {
+                "avg_goodput": 4639.345828631721,
+                "avg_throughput": 4956.330809301402,
+                "avg_rtt": 45.85596579417014,
+                "avg_cwnd": 29551.892875580794,
+                "avg_rttvar": 36.54761838191553,
+                "retransmissions": 67,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 52.568508891523415,
+                "avg_probe_timer": 216.8149286351472,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 38,
+                    "time_threshold": 16
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl2_bw5_q25-28",
+        "sim": "min",
+        "mdn_goodput": 4067.315295393695,
+        "mdn_throughput": 4539.527056539275,
+        "mdn_rtt": 47.798011604868385,
+        "mdn_cwnd": 30936.89212283044,
+        "mdn_rttvar": 1.6104282485875705,
+        "mdn_retransmissions": 49,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 55.12822661428922,
+        "mdn_probe_timer": 79.45264308468278,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 4067.315295393695,
+                "avg_throughput": 4540.889682362875,
+                "avg_rtt": 47.979070225520985,
+                "avg_cwnd": 31056.937904967603,
+                "avg_rttvar": 1.6665024320457797,
+                "retransmissions": 52,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.32737047146402,
+                "avg_probe_timer": 79.84356798069187,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 38,
+                    "time_threshold": 14
+                }
+            },
+            {
+                "avg_goodput": 4069.132780415777,
+                "avg_throughput": 4536.075312259339,
+                "avg_rtt": 47.9379480812641,
+                "avg_cwnd": 31008.348986125933,
+                "avg_rttvar": 1.6104282485875705,
+                "retransmissions": 49,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.261469622733955,
+                "avg_probe_timer": 79.59074471458774,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 39,
+                    "time_threshold": 10
+                }
+            },
+            {
+                "avg_goodput": 4066.2613093658115,
+                "avg_throughput": 4532.918306715281,
+                "avg_rtt": 47.69095127478754,
+                "avg_cwnd": 30856.061251664447,
+                "avg_rttvar": 1.5989522058823529,
+                "retransmissions": 49,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 54.9828383072407,
+                "avg_probe_timer": 79.30293086092715,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 34,
+                    "time_threshold": 15
+                }
+            },
+            {
+                "avg_goodput": 4072.8462851545814,
+                "avg_throughput": 4540.323740580679,
+                "avg_rtt": 47.77118502824859,
+                "avg_cwnd": 30864.371428571427,
+                "avg_rttvar": 1.599905756207675,
+                "retransmissions": 49,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.03760666993624,
+                "avg_probe_timer": 79.36021015738659,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 38,
+                    "time_threshold": 11
+                }
+            },
+            {
+                "avg_goodput": 4067.0601753688593,
+                "avg_throughput": 4539.527056539275,
+                "avg_rtt": 47.798011604868385,
+                "avg_cwnd": 30936.89212283044,
+                "avg_rttvar": 1.610943011057556,
+                "retransmissions": 51,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.12822661428922,
+                "avg_probe_timer": 79.45264308468278,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 40,
+                    "time_threshold": 12
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl2_bw5_q25-28",
+        "sim": "qns",
+        "mdn_goodput": 4546.806909418092,
+        "mdn_throughput": 4963.6981628236235,
+        "mdn_rtt": 47.7811968,
+        "mdn_cwnd": 31211.554103343464,
+        "mdn_rttvar": 1.9509202178788851,
+        "mdn_retransmissions": 48,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 55.29443269497641,
+        "mdn_probe_timer": 80.80311627906977,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 4546.806909418092,
+                "avg_throughput": 4962.406921903016,
+                "avg_rtt": 47.752444835305404,
+                "avg_cwnd": 31205.16146622236,
+                "avg_rttvar": 1.9662829643888353,
+                "retransmissions": 47,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.29317201327434,
+                "avg_probe_timer": 80.80311627906977,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 18,
+                    "packet_threshold": 30
+                }
+            },
+            {
+                "avg_goodput": 4548.72035851225,
+                "avg_throughput": 4965.8963960623005,
+                "avg_rtt": 47.92548980852378,
+                "avg_cwnd": 31333.489330605087,
+                "avg_rttvar": 1.8040086499845536,
+                "retransmissions": 48,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.47908572193946,
+                "avg_probe_timer": 80.39833280208636,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 37,
+                    "time_threshold": 12
+                }
+            },
+            {
+                "avg_goodput": 4544.4226003873955,
+                "avg_throughput": 4963.6981628236235,
+                "avg_rtt": 47.51363156199678,
+                "avg_cwnd": 31092.72879804759,
+                "avg_rttvar": 2.007650855114553,
+                "retransmissions": 50,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.078455151346844,
+                "avg_probe_timer": 80.8127937848846,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 27,
+                    "packet_threshold": 24
+                }
+            },
+            {
+                "avg_goodput": 4535.959109179021,
+                "avg_throughput": 4955.552023459857,
+                "avg_rtt": 47.848021343377276,
+                "avg_cwnd": 31273.108172362558,
+                "avg_rttvar": 1.8714682988072817,
+                "retransmissions": 51,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.38505046120456,
+                "avg_probe_timer": 80.7127867960594,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 31,
+                    "time_threshold": 21
+                }
+            },
+            {
+                "avg_goodput": 4549.033087916817,
+                "avg_throughput": 4965.068159071763,
+                "avg_rtt": 47.7811968,
+                "avg_cwnd": 31211.554103343464,
+                "avg_rttvar": 1.9509202178788851,
+                "retransmissions": 47,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 55.29443269497641,
+                "avg_probe_timer": 80.81362351347283,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 35,
+                    "time_threshold": 13
+                }
+            }
+        ]
+    },
+    {
+        "name": "tcpebpf/dl2_bw5_q25-28",
+        "sim": "min",
+        "mdn_goodput": 4661.541395046309,
+        "mdn_throughput": 5017.172183930013,
+        "mdn_rtt": 44.22703848298935,
+        "mdn_cwnd": 22.65978806469604,
+        "mdn_rttvar": 7.620348314606746,
+        "mdn_retransmissions": 54,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 56.26841329479768,
+        "mdn_probe_timer": 121.60223925233655,
+        "mdn_retrans_timer": 247.9182839632278,
+        "runs": [
+            {
+                "avg_goodput": 4661.541395046309,
+                "avg_throughput": 5017.045604622974,
+                "avg_rtt": 44.09649415692819,
+                "avg_cwnd": 22.612687813021704,
+                "avg_rttvar": 7.727746243739573,
+                "retransmissions": 54,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 56.35075555555551,
+                "avg_probe_timer": 121.1028399246704,
+                "avg_retrans_timer": 247.71953255425709,
+                "loss_triggers": {
+                    "time_threshold": 28
+                }
+            },
+            {
+                "avg_goodput": 4658.53025213259,
+                "avg_throughput": 5022.312868111074,
+                "avg_rtt": 44.573253319714034,
+                "avg_cwnd": 22.774259448416753,
+                "avg_rttvar": 7.3431869254341215,
+                "retransmissions": 59,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 56.00004113110542,
+                "avg_probe_timer": 122.16655287569576,
+                "avg_retrans_timer": 247.9182839632278,
+                "loss_triggers": {
+                    "time_threshold": 34
+                }
+            },
+            {
+                "avg_goodput": 4662.518458609773,
+                "avg_throughput": 5017.172183930013,
+                "avg_rtt": 44.22703848298935,
+                "avg_cwnd": 22.65978806469604,
+                "avg_rttvar": 7.675571667596203,
+                "retransmissions": 54,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 56.808483695652164,
+                "avg_probe_timer": 121.60223925233655,
+                "avg_retrans_timer": 247.95761293920802,
+                "loss_triggers": {
+                    "time_threshold": 28
+                }
+            },
+            {
+                "avg_goodput": 4661.465412155667,
+                "avg_throughput": 5018.460702221219,
+                "avg_rtt": 44.14421910112349,
+                "avg_cwnd": 22.61629213483146,
+                "avg_rttvar": 7.620348314606746,
+                "retransmissions": 55,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 56.117008152173874,
+                "avg_probe_timer": 120.66890555555555,
+                "avg_retrans_timer": 247.64943820224718,
+                "loss_triggers": {
+                    "time_threshold": 29
+                }
+            },
+            {
+                "avg_goodput": 4662.755517199921,
+                "avg_throughput": 5017.033848561926,
+                "avg_rtt": 44.60937888198754,
+                "avg_cwnd": 22.748447204968944,
+                "avg_rttvar": 7.30807971014492,
+                "retransmissions": 54,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 56.26841329479768,
+                "avg_probe_timer": 122.3858385744236,
+                "avg_retrans_timer": 247.9689440993789,
+                "loss_triggers": {
+                    "time_threshold": 28
+                }
+            }
+        ]
+    },
+    {
+        "name": "tcpebpf/dl2_bw5_q25-28",
+        "sim": "qns",
+        "mdn_goodput": 4714.077568594846,
+        "mdn_throughput": 4973.976697704926,
+        "mdn_rtt": 45.829149641082225,
+        "mdn_cwnd": 23.763666482606293,
+        "mdn_rttvar": 7.738089453340699,
+        "mdn_retransmissions": 48,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 57.172730046948345,
+        "mdn_probe_timer": 123.85401697530865,
+        "mdn_retrans_timer": 249.81557150745445,
+        "runs": [
+            {
+                "avg_goodput": 4714.077568594846,
+                "avg_throughput": 4973.976697704926,
+                "avg_rtt": 45.829149641082225,
+                "avg_cwnd": 23.763666482606293,
+                "avg_rttvar": 7.738089453340699,
+                "retransmissions": 48,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 57.172730046948345,
+                "avg_probe_timer": 123.84030555555562,
+                "avg_retrans_timer": 249.80894533406956,
+                "loss_triggers": {
+                    "time_threshold": 37,
+                    "pto_expired": 1
+                }
+            },
+            {
+                "avg_goodput": 4714.12738191158,
+                "avg_throughput": 4974.029269963642,
+                "avg_rtt": 45.82928216454995,
+                "avg_cwnd": 23.763666482606293,
+                "avg_rttvar": 7.750419657647717,
+                "retransmissions": 48,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 57.171446009389626,
+                "avg_probe_timer": 123.85401697530865,
+                "avg_retrans_timer": 249.81557150745445,
+                "loss_triggers": {
+                    "time_threshold": 37,
+                    "pto_expired": 1
+                }
+            },
+            {
+                "avg_goodput": 4713.981305559377,
+                "avg_throughput": 4973.904416652607,
+                "avg_rtt": 45.85311049723752,
+                "avg_cwnd": 23.76574585635359,
+                "avg_rttvar": 7.813348066298329,
+                "retransmissions": 48,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 57.1743521126761,
+                "avg_probe_timer": 123.87529629629627,
+                "avg_retrans_timer": 249.82762430939226,
+                "loss_triggers": {
+                    "time_threshold": 37,
+                    "pto_expired": 1
+                }
+            },
+            {
+                "avg_goodput": 4714.1483762376,
+                "avg_throughput": 4974.080741705925,
+                "avg_rtt": 45.8226464088397,
+                "avg_cwnd": 23.76574585635359,
+                "avg_rttvar": 7.683116022099445,
+                "retransmissions": 48,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 57.17940375586853,
+                "avg_probe_timer": 123.86940740740748,
+                "avg_retrans_timer": 249.84530386740332,
+                "loss_triggers": {
+                    "time_threshold": 37,
+                    "pto_expired": 1
+                }
+            },
+            {
+                "avg_goodput": 4708.511460525158,
+                "avg_throughput": 4973.507591704845,
+                "avg_rtt": 45.535741898806016,
+                "avg_cwnd": 23.713473564525298,
+                "avg_rttvar": 7.7224445707788485,
+                "retransmissions": 51,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 55.89695726495729,
+                "avg_probe_timer": 122.45682304526751,
+                "avg_retrans_timer": 249.16202387720296,
+                "loss_triggers": {
+                    "time_threshold": 38
+                }
+            }
+        ]
+    },
+{
+        "name": "aioquic/dl10_bw20_q16-64",
+        "sim": "min",
+        "mdn_goodput": 14100.245955818466,
+        "mdn_throughput": 15457.041347229893,
+        "mdn_rtt": 42.216861077359255,
+        "mdn_cwnd": 101476.67568786649,
+        "mdn_rttvar": 20.472281895504253,
+        "mdn_retransmissions": 183,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 48.5598772782503,
+        "mdn_probe_timer": 146.93002963865206,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 14177.936865707414,
+                "avg_throughput": 15552.198659085509,
+                "avg_rtt": 51.31412933496532,
+                "avg_cwnd": 123421.5275440977,
+                "avg_rttvar": 28.965911056711544,
+                "retransmissions": 188,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 58.833760505915954,
+                "avg_probe_timer": 189.55887940935193,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 182
+                }
+            },
+            {
+                "avg_goodput": 13922.179772462398,
+                "avg_throughput": 15284.711693430681,
+                "avg_rtt": 38.60226997929606,
+                "avg_cwnd": 93919.02515320589,
+                "avg_rttvar": 17.160164389233955,
+                "retransmissions": 137,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 44.47618170529801,
+                "avg_probe_timer": 132.15620512820513,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 123,
+                    "time_threshold": 2
+                }
+            },
+            {
+                "avg_goodput": 14124.588750482155,
+                "avg_throughput": 15497.979066223677,
+                "avg_rtt": 42.216861077359255,
+                "avg_cwnd": 101476.67568786649,
+                "avg_rttvar": 20.472281895504253,
+                "retransmissions": 183,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 48.5598772782503,
+                "avg_probe_timer": 146.93002963865206,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 167
+                }
+            },
+            {
+                "avg_goodput": 14100.245955818466,
+                "avg_throughput": 15457.041347229893,
+                "avg_rtt": 42.16317167207792,
+                "avg_cwnd": 100664.55245071441,
+                "avg_rttvar": 20.355605113636365,
+                "retransmissions": 189,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 48.52895941558442,
+                "avg_probe_timer": 146.40019016659895,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 176
+                }
+            },
+            {
+                "avg_goodput": 14076.983597893133,
+                "avg_throughput": 15442.55419477652,
+                "avg_rtt": 44.40464461476402,
+                "avg_cwnd": 107130.94381004169,
+                "avg_rttvar": 22.61452884227511,
+                "retransmissions": 181,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 51.06052884227511,
+                "avg_probe_timer": 157.09270640713706,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 172
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl10_bw20_q16-64",
+        "sim": "qns",
+        "mdn_goodput": 11812.933170391814,
+        "mdn_throughput": 12542.43490491306,
+        "mdn_rtt": 61.76786424100157,
+        "mdn_cwnd": 98461.10530718468,
+        "mdn_rttvar": 38.78085211267605,
+        "mdn_retransmissions": 64,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 70.80527816901409,
+        "mdn_probe_timer": 242.34297157320873,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 11263.779914016239,
+                "avg_throughput": 12132.796416334697,
+                "avg_rtt": 63.79461634506243,
+                "avg_cwnd": 99995.49870338908,
+                "avg_rttvar": 40.482907302307986,
+                "retransmissions": 164,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 73.38685584562997,
+                "avg_probe_timer": 249.88280128690386,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 157
+                }
+            },
+            {
+                "avg_goodput": 11812.933170391814,
+                "avg_throughput": 12542.43490491306,
+                "avg_rtt": 61.76786424100157,
+                "avg_cwnd": 98461.10530718468,
+                "avg_rttvar": 38.78085211267605,
+                "retransmissions": 45,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 70.80527816901409,
+                "avg_probe_timer": 242.34297157320873,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 42
+                }
+            },
+            {
+                "avg_goodput": 11857.273358240169,
+                "avg_throughput": 12616.471858622683,
+                "avg_rtt": 56.95874821495678,
+                "avg_cwnd": 91541.2952773957,
+                "avg_rttvar": 33.71756257046223,
+                "retransmissions": 64,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.43124652386321,
+                "avg_probe_timer": 217.41154599850412,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 61
+                }
+            },
+            {
+                "avg_goodput": 11086.243768105338,
+                "avg_throughput": 11917.1775730446,
+                "avg_rtt": 69.7304668924003,
+                "avg_cwnd": 106259.26628591826,
+                "avg_rttvar": 46.63312264860797,
+                "retransmissions": 147,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 80.1219130925508,
+                "avg_probe_timer": 280.7632282813088,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 138
+                }
+            },
+            {
+                "avg_goodput": 11848.97988642236,
+                "avg_throughput": 12548.053001055663,
+                "avg_rtt": 56.04442960426179,
+                "avg_cwnd": 90003.85937789298,
+                "avg_rttvar": 32.803289954337906,
+                "retransmissions": 22,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 64.24985806697109,
+                "avg_probe_timer": 212.44211722306525,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 20
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl10_bw20_q16-64",
+        "sim": "min",
+        "mdn_goodput": 13527.349800443142,
+        "mdn_throughput": 15019.323207533931,
+        "mdn_rtt": 45.46514435146443,
+        "mdn_cwnd": 108911.10487505121,
+        "mdn_rttvar": 1.6107691063485645,
+        "mdn_retransmissions": 139,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 54.19033890400311,
+        "mdn_probe_timer": 79.6519191879758,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 13113.048216820702,
+                "avg_throughput": 14626.459258329714,
+                "avg_rtt": 44.89487210718635,
+                "avg_cwnd": 107608.33519330411,
+                "avg_rttvar": 1.7685928484355953,
+                "retransmissions": 150,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 53.508964420893264,
+                "avg_probe_timer": 79.49919729623824,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 145,
+                    "time_threshold": 5
+                }
+            },
+            {
+                "avg_goodput": 13164.972354335216,
+                "avg_throughput": 14652.615776163188,
+                "avg_rtt": 45.46514435146443,
+                "avg_cwnd": 108911.10487505121,
+                "avg_rttvar": 1.8091855886049435,
+                "retransmissions": 139,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 54.19033890400311,
+                "avg_probe_timer": 80.10965591614594,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 138,
+                    "time_threshold": 1
+                }
+            },
+            {
+                "avg_goodput": 13650.602138048223,
+                "avg_throughput": 15166.067610062079,
+                "avg_rtt": 42.60887370170337,
+                "avg_cwnd": 103844.06597938144,
+                "avg_rttvar": 1.4836457119067443,
+                "retransmissions": 77,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 49.244463482037105,
+                "avg_probe_timer": 74.48997753491196,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 71,
+                    "time_threshold": 6
+                }
+            },
+            {
+                "avg_goodput": 13527.349800443142,
+                "avg_throughput": 15019.323207533931,
+                "avg_rtt": 46.02015683104285,
+                "avg_cwnd": 113651.33162863887,
+                "avg_rttvar": 1.6107691063485645,
+                "retransmissions": 114,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 54.373705549263875,
+                "avg_probe_timer": 79.6519191879758,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 109,
+                    "time_threshold": 5
+                }
+            },
+            {
+                "avg_goodput": 13679.851882583724,
+                "avg_throughput": 15392.941695224741,
+                "avg_rtt": 54.74513467874794,
+                "avg_cwnd": 136910.66693322672,
+                "avg_rttvar": 1.6085957007027698,
+                "retransmissions": 198,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 63.698956170703575,
+                "avg_probe_timer": 88.16419649611785,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 197,
+                    "time_threshold": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl10_bw20_q16-64",
+        "sim": "qns",
+        "mdn_goodput": 11839.150524142286,
+        "mdn_throughput": 12831.79135548528,
+        "mdn_rtt": 55.129757260666906,
+        "mdn_cwnd": 90585.87834978843,
+        "mdn_rttvar": 1.713734746072342,
+        "mdn_retransmissions": 19,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 63.02508281786941,
+        "mdn_probe_timer": 87.23013766461808,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 11666.167328444353,
+                "avg_throughput": 12815.626348128631,
+                "avg_rtt": 56.208134063444106,
+                "avg_cwnd": 94810.5875,
+                "avg_rttvar": 2.032272039349224,
+                "retransmissions": 133,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.74497954144621,
+                "avg_probe_timer": 91.17823114843893,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 101,
+                    "time_threshold": 32
+                }
+            },
+            {
+                "avg_goodput": 11696.59015603172,
+                "avg_throughput": 12831.79135548528,
+                "avg_rtt": 58.65491825307951,
+                "avg_cwnd": 98049.90952034884,
+                "avg_rttvar": 2.023982082866741,
+                "retransmissions": 122,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 68.55945950643031,
+                "avg_probe_timer": 93.65721487752162,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 101,
+                    "time_threshold": 21
+                }
+            },
+            {
+                "avg_goodput": 12152.694637163198,
+                "avg_throughput": 13152.836686682398,
+                "avg_rtt": 53.602760218978105,
+                "avg_cwnd": 90426.05793450882,
+                "avg_rttvar": 1.713734746072342,
+                "retransmissions": 10,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 61.331505779334506,
+                "avg_probe_timer": 85.85619563662374,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 10
+                }
+            },
+            {
+                "avg_goodput": 12048.732447676024,
+                "avg_throughput": 13043.292299506627,
+                "avg_rtt": 52.749739114526164,
+                "avg_cwnd": 88230.24575352368,
+                "avg_rttvar": 1.7006891248626876,
+                "retransmissions": 12,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 60.36540942666198,
+                "avg_probe_timer": 84.93854000717617,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 12
+                }
+            },
+            {
+                "avg_goodput": 11839.150524142286,
+                "avg_throughput": 12826.514095362214,
+                "avg_rtt": 55.129757260666906,
+                "avg_cwnd": 90585.87834978843,
+                "avg_rttvar": 1.6906255380200863,
+                "retransmissions": 19,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 63.02508281786941,
+                "avg_probe_timer": 87.23013766461808,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 18,
+                    "time_threshold": 1
+                }
+            }
+        ]
+    },
+    {
+        "name": "tcpebpf/dl10_bw20_q16-64",
+        "sim": "min",
+        "mdn_goodput": 17532.272284327104,
+        "mdn_throughput": 18896.885245672245,
+        "mdn_rtt": 32.736438809261195,
+        "mdn_cwnd": 65.1058434399118,
+        "mdn_rttvar": 1.56196552682792,
+        "mdn_retransmissions": 104,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 34.20863829787233,
+        "mdn_probe_timer": 87.8674810344828,
+        "mdn_retrans_timer": 235.05601774819746,
+        "runs": [
+            {
+                "avg_goodput": 17533.91382548701,
+                "avg_throughput": 18900.346098044804,
+                "avg_rtt": 32.72977203224912,
+                "avg_cwnd": 65.10314150681123,
+                "avg_rttvar": 1.56196552682792,
+                "retransmissions": 103,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 34.28764705882355,
+                "avg_probe_timer": 88.11525958188146,
+                "avg_retrans_timer": 235.06811231581875,
+                "loss_triggers": {
+                    "time_threshold": 48
+                }
+            },
+            {
+                "avg_goodput": 17519.990023180195,
+                "avg_throughput": 18889.571598211085,
+                "avg_rtt": 32.742811980033274,
+                "avg_cwnd": 65.14725457570715,
+                "avg_rttvar": 1.5825291181364536,
+                "retransmissions": 104,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 34.20863829787233,
+                "avg_probe_timer": 87.8674810344828,
+                "avg_retrans_timer": 235.05601774819746,
+                "loss_triggers": {
+                    "time_threshold": 51
+                }
+            },
+            {
+                "avg_goodput": 17532.272284327104,
+                "avg_throughput": 18896.885245672245,
+                "avg_rtt": 32.71936099585066,
+                "avg_cwnd": 65.09322268326417,
+                "avg_rttvar": 1.5116348547717973,
+                "retransmissions": 103,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 33.920407185628726,
+                "avg_probe_timer": 87.75928140703512,
+                "avg_retrans_timer": 235.04066390041493,
+                "loss_triggers": {
+                    "time_threshold": 50
+                }
+            },
+            {
+                "avg_goodput": 17554.151972025516,
+                "avg_throughput": 18925.185424433308,
+                "avg_rtt": 32.736438809261195,
+                "avg_cwnd": 65.1058434399118,
+                "avg_rttvar": 1.4687183020948362,
+                "retransmissions": 104,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 33.86401791044778,
+                "avg_probe_timer": 87.60283277591968,
+                "avg_retrans_timer": 235.0308710033076,
+                "loss_triggers": {
+                    "time_threshold": 50
+                }
+            },
+            {
+                "avg_goodput": 17508.941206620955,
+                "avg_throughput": 18875.042798844614,
+                "avg_rtt": 32.77277731673572,
+                "avg_cwnd": 65.19336099585063,
+                "avg_rttvar": 1.5822876901798175,
+                "retransmissions": 104,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 34.24330674846625,
+                "avg_probe_timer": 88.03804663212436,
+                "avg_retrans_timer": 235.07607192254494,
+                "loss_triggers": {
+                    "time_threshold": 50
+                }
+            }
+        ]
+    },
+    {
+        "name": "tcpebpf/dl10_bw20_q16-64",
+        "sim": "qns",
+        "mdn_goodput": 17066.600892913262,
+        "mdn_throughput": 17879.9532581537,
+        "mdn_rtt": 24.015230686695183,
+        "mdn_cwnd": 45.085032188841204,
+        "mdn_rttvar": 1.4154811042615905,
+        "mdn_retransmissions": 37,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 21.396333333333327,
+        "mdn_probe_timer": 63.39194756554306,
+        "mdn_retrans_timer": 226.5,
+        "runs": [
+            {
+                "avg_goodput": 17071.462346300013,
+                "avg_throughput": 17887.855612398136,
+                "avg_rtt": 24.035775214592327,
+                "avg_cwnd": 45.103004291845494,
+                "avg_rttvar": 1.4405767167382013,
+                "retransmissions": 39,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.373989690721647,
+                "avg_probe_timer": 63.3952547169812,
+                "avg_retrans_timer": 226.51824034334763,
+                "loss_triggers": {
+                    "time_threshold": 24
+                }
+            },
+            {
+                "avg_goodput": 17064.001436992537,
+                "avg_throughput": 17879.9532581537,
+                "avg_rtt": 23.968834092736486,
+                "avg_cwnd": 44.99249530956848,
+                "avg_rttvar": 1.4154811042615905,
+                "retransmissions": 39,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.38151186440678,
+                "avg_probe_timer": 63.39194756554306,
+                "avg_retrans_timer": 226.46582685607075,
+                "loss_triggers": {
+                    "time_threshold": 23
+                }
+            },
+            {
+                "avg_goodput": 17066.600892913262,
+                "avg_throughput": 17878.17077087806,
+                "avg_rtt": 24.015230686695183,
+                "avg_cwnd": 45.085032188841204,
+                "avg_rttvar": 1.3750402360514973,
+                "retransmissions": 37,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.396333333333327,
+                "avg_probe_timer": 63.375573863636305,
+                "avg_retrans_timer": 226.5,
+                "loss_triggers": {
+                    "time_threshold": 23
+                }
+            },
+            {
+                "avg_goodput": 17099.50719557647,
+                "avg_throughput": 17910.37749834816,
+                "avg_rtt": 24.0644770544291,
+                "avg_cwnd": 45.17689434364995,
+                "avg_rttvar": 1.3761606189968023,
+                "retransmissions": 36,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.695239852398526,
+                "avg_probe_timer": 63.8692366255145,
+                "avg_retrans_timer": 226.56883671291357,
+                "loss_triggers": {
+                    "time_threshold": 22
+                }
+            },
+            {
+                "avg_goodput": 17050.220601695084,
+                "avg_throughput": 17858.690582441348,
+                "avg_rtt": 23.919673447537427,
+                "avg_cwnd": 44.86509635974304,
+                "avg_rttvar": 1.4545048179871531,
+                "retransmissions": 36,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.411292929292923,
+                "avg_probe_timer": 63.39013543599261,
+                "avg_retrans_timer": 226.37901498929335,
+                "loss_triggers": {
+                    "time_threshold": 22
+                }
+            }
+        ]
+    },
+{
+        "name": "aioquic/dl10_bw20_q16-48",
+        "sim": "min",
+        "mdn_goodput": 14111.002589350848,
+        "mdn_throughput": 15412.536033845407,
+        "mdn_rtt": 34.90341430948419,
+        "mdn_cwnd": 85646.35495163519,
+        "mdn_rttvar": 13.068156821963393,
+        "mdn_retransmissions": 89,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 40.13750498753117,
+        "mdn_probe_timer": 112.554492741601,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 14154.187994287096,
+                "avg_throughput": 15419.587873662356,
+                "avg_rtt": 40.51428685092127,
+                "avg_cwnd": 97133.23509099393,
+                "avg_rttvar": 18.2988094639866,
+                "retransmissions": 89,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 46.47425020920502,
+                "avg_probe_timer": 139.0497292101964,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 6,
+                    "packet_threshold": 76
+                }
+            },
+            {
+                "avg_goodput": 0.0,
+                "avg_throughput": 13966.718838129547,
+                "avg_rtt": 29.945379547291836,
+                "avg_cwnd": 70376.34566278633,
+                "avg_rttvar": 9.290519401778496,
+                "retransmissions": 12,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 34.42949717057397,
+                "avg_probe_timer": 92.47651329572925,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "pto_expired": 2,
+                    "packet_threshold": 10
+                }
+            },
+            {
+                "avg_goodput": 14111.002589350848,
+                "avg_throughput": 15232.372392772228,
+                "avg_rtt": 31.604589169381107,
+                "avg_cwnd": 75539.36429838484,
+                "avg_rttvar": 10.534140472312703,
+                "retransmissions": 66,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 36.43035545602606,
+                "avg_probe_timer": 98.53711910569106,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 60
+                }
+            },
+            {
+                "avg_goodput": 14056.85626630576,
+                "avg_throughput": 15412.536033845407,
+                "avg_rtt": 37.05065592680987,
+                "avg_cwnd": 89991.29851691083,
+                "avg_rttvar": 15.161847653142402,
+                "retransmissions": 115,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 42.483675944333996,
+                "avg_probe_timer": 123.07182731242557,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 100,
+                    "time_threshold": 2
+                }
+            },
+            {
+                "avg_goodput": 14158.049394921054,
+                "avg_throughput": 15413.990147077007,
+                "avg_rtt": 34.90341430948419,
+                "avg_cwnd": 85646.35495163519,
+                "avg_rttvar": 13.068156821963393,
+                "retransmissions": 97,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 40.13750498753117,
+                "avg_probe_timer": 112.554492741601,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 81,
+                    "time_threshold": 6
+                }
+            }
+        ]
+    },
+    {
+        "name": "aioquic/dl10_bw20_q16-48",
+        "sim": "qns",
+        "mdn_goodput": 11442.808857146985,
+        "mdn_throughput": 12312.10534822576,
+        "mdn_rtt": 64.94401456496742,
+        "mdn_cwnd": 102020.58331087757,
+        "mdn_rttvar": 41.89858873131468,
+        "mdn_retransmissions": 132,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 74.68464277500958,
+        "mdn_probe_timer": 256.3860939417178,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 11429.847169117716,
+                "avg_throughput": 12312.10534822576,
+                "avg_rtt": 64.94401456496742,
+                "avg_cwnd": 102020.58331087757,
+                "avg_rttvar": 41.89858873131468,
+                "retransmissions": 170,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 74.68464277500958,
+                "avg_probe_timer": 256.3860939417178,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 159
+                }
+            },
+            {
+                "avg_goodput": 11811.933215430909,
+                "avg_throughput": 12610.129379756543,
+                "avg_rtt": 58.50042214532872,
+                "avg_cwnd": 94001.15784197576,
+                "avg_rttvar": 35.49942137639369,
+                "retransmissions": 88,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 67.18167820069203,
+                "avg_probe_timer": 225.86450115030675,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 82
+                }
+            },
+            {
+                "avg_goodput": 11238.448651424229,
+                "avg_throughput": 12115.046082037,
+                "avg_rtt": 70.33830965593785,
+                "avg_cwnd": 108879.9292121858,
+                "avg_rttvar": 46.92636256011839,
+                "retransmissions": 172,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 80.64844395116538,
+                "avg_probe_timer": 281.5335663095678,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 161
+                }
+            },
+            {
+                "avg_goodput": 11442.808857146985,
+                "avg_throughput": 12282.22464952629,
+                "avg_rtt": 66.13855555555556,
+                "avg_cwnd": 103810.99891442012,
+                "avg_rttvar": 43.09115158457426,
+                "retransmissions": 132,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 75.98854830087821,
+                "avg_probe_timer": 262.6498472962681,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 131
+                }
+            },
+            {
+                "avg_goodput": 11757.736814124544,
+                "avg_throughput": 12562.272968667019,
+                "avg_rtt": 60.536548716012085,
+                "avg_cwnd": 96254.16890786843,
+                "avg_rttvar": 37.375767371601206,
+                "retransmissions": 97,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 69.52156948640483,
+                "avg_probe_timer": 235.19713318284423,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 91
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl10_bw20_q16-48",
+        "sim": "min",
+        "mdn_goodput": 13327.475410274901,
+        "mdn_throughput": 14742.39780187195,
+        "mdn_rtt": 43.88991590720796,
+        "mdn_cwnd": 105216.62652563059,
+        "mdn_rttvar": 1.6338060008220305,
+        "mdn_retransmissions": 76,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 51.59774752475248,
+        "mdn_probe_timer": 76.6898278978389,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 13365.031700939873,
+                "avg_throughput": 14813.941832315564,
+                "avg_rtt": 42.51880287474333,
+                "avg_cwnd": 102995.2950222582,
+                "avg_rttvar": 1.6338060008220305,
+                "retransmissions": 94,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 50.21038375673595,
+                "avg_probe_timer": 75.91236658701712,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 90,
+                    "time_threshold": 4
+                }
+            },
+            {
+                "avg_goodput": 13327.475410274901,
+                "avg_throughput": 14742.39780187195,
+                "avg_rtt": 43.9286177904143,
+                "avg_cwnd": 105957.10732673267,
+                "avg_rttvar": 1.4990513238289207,
+                "retransmissions": 76,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 51.59774752475248,
+                "avg_probe_timer": 76.6898278978389,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 74,
+                    "time_threshold": 2
+                }
+            },
+            {
+                "avg_goodput": 13315.266205715967,
+                "avg_throughput": 14711.23817193477,
+                "avg_rtt": 42.19454108216433,
+                "avg_cwnd": 101265.024852071,
+                "avg_rttvar": 1.6582786029706944,
+                "retransmissions": 65,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 49.55721938392186,
+                "avg_probe_timer": 75.26295765345765,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 62,
+                    "time_threshold": 3
+                }
+            },
+            {
+                "avg_goodput": 13258.78453862614,
+                "avg_throughput": 14719.30937597616,
+                "avg_rtt": 43.88991590720796,
+                "avg_cwnd": 105216.62652563059,
+                "avg_rttvar": 1.699009535655058,
+                "retransmissions": 106,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 51.6542754352031,
+                "avg_probe_timer": 77.63249830033992,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 105,
+                    "time_threshold": 1
+                }
+            },
+            {
+                "avg_goodput": 13610.20855338946,
+                "avg_throughput": 15052.519299459058,
+                "avg_rtt": 47.048830111065406,
+                "avg_cwnd": 116011.70791482524,
+                "avg_rttvar": 1.457386073341574,
+                "retransmissions": 71,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 54.70442802006947,
+                "avg_probe_timer": 79.38941294820717,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 69,
+                    "time_threshold": 2
+                }
+            }
+        ]
+    },
+    {
+        "name": "quant/dl10_bw20_q16-48",
+        "sim": "qns",
+        "mdn_goodput": 11481.481974203374,
+        "mdn_throughput": 12583.113034725135,
+        "mdn_rtt": 56.676829896907215,
+        "mdn_cwnd": 90811.92566118656,
+        "mdn_rttvar": 1.7923037228160708,
+        "mdn_retransmissions": 45,
+        "mdn_spurious_retrans": 0,
+        "mdn_rack_timer": 65.43713127147767,
+        "mdn_probe_timer": 90.71607238129113,
+        "mdn_retrans_timer": 0.0,
+        "runs": [
+            {
+                "avg_goodput": 11323.414879445765,
+                "avg_throughput": 12326.514541427905,
+                "avg_rtt": 62.09826831063673,
+                "avg_cwnd": 99157.14899713467,
+                "avg_rttvar": 1.7923037228160708,
+                "retransmissions": 59,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 71.56561876933654,
+                "avg_probe_timer": 95.58902045171617,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 45,
+                    "time_threshold": 14
+                }
+            },
+            {
+                "avg_goodput": 11266.325098265357,
+                "avg_throughput": 12243.088275893559,
+                "avg_rtt": 56.676829896907215,
+                "avg_cwnd": 89700.07193987115,
+                "avg_rttvar": 1.9992717551622419,
+                "retransmissions": 45,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 65.43713127147767,
+                "avg_probe_timer": 90.71607238129113,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 34,
+                    "time_threshold": 11
+                }
+            },
+            {
+                "avg_goodput": 11794.241520636335,
+                "avg_throughput": 12774.67371660286,
+                "avg_rtt": 55.14819912790698,
+                "avg_cwnd": 90290.8988924616,
+                "avg_rttvar": 1.7600359738372091,
+                "retransmissions": 17,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 63.00578519290928,
+                "avg_probe_timer": 87.5400026642984,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "time_threshold": 3,
+                    "packet_threshold": 14
+                }
+            },
+            {
+                "avg_goodput": 11481.481974203374,
+                "avg_throughput": 12583.113034725135,
+                "avg_rtt": 59.42099190879,
+                "avg_cwnd": 97133.9208736126,
+                "avg_rttvar": 2.0191863033873343,
+                "retransmissions": 114,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 68.95746256868132,
+                "avg_probe_timer": 94.01461256451326,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 98,
+                    "time_threshold": 16
+                }
+            },
+            {
+                "avg_goodput": 12337.751044974442,
+                "avg_throughput": 13352.397313338528,
+                "avg_rtt": 53.04462631388184,
+                "avg_cwnd": 90811.92566118656,
+                "avg_rttvar": 1.6080119869233562,
+                "retransmissions": 9,
+                "spurious_retrans": 0,
+                "avg_rack_timer": 60.67985888077858,
+                "avg_probe_timer": 84.85584686445195,
+                "avg_retrans_timer": 0.0,
+                "loss_triggers": {
+                    "packet_threshold": 7,
+                    "time_threshold": 2
+                }
+            }
+        ]
+    },
+    {
+        "name": "tcpebpf/dl10_bw20_q16-48",
+        "sim": "min",
+        "mdn_goodput": 17370.47925393749,
+        "mdn_throughput": 18639.10829866124,
+        "mdn_rtt": 27.206785909338997,
+        "mdn_cwnd": 53.53504928806134,
+        "mdn_rttvar": 1.4956133625410815,
+        "mdn_retransmissions": 87,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 26.825880466472313,
+        "mdn_probe_timer": 73.76516917922949,
+        "mdn_retrans_timer": 229.6624795193883,
+        "runs": [
+            {
+                "avg_goodput": 17382.641609825943,
+                "avg_throughput": 18651.836432364416,
+                "avg_rtt": 27.185753837719325,
+                "avg_cwnd": 53.50603070175438,
+                "avg_rttvar": 1.49609375000001,
+                "retransmissions": 87,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 26.81134411764706,
+                "avg_probe_timer": 73.76516917922949,
+                "avg_retrans_timer": 229.62171052631578,
+                "loss_triggers": {
+                    "time_threshold": 41
+                }
+            },
+            {
+                "avg_goodput": 17370.47925393749,
+                "avg_throughput": 18639.10829866124,
+                "avg_rtt": 27.223540525739125,
+                "avg_cwnd": 53.53504928806134,
+                "avg_rttvar": 1.4956133625410815,
+                "retransmissions": 87,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 26.825880466472313,
+                "avg_probe_timer": 73.74299665551841,
+                "avg_retrans_timer": 229.67579408543264,
+                "loss_triggers": {
+                    "time_threshold": 42
+                }
+            },
+            {
+                "avg_goodput": 17361.161618440343,
+                "avg_throughput": 18631.704538819864,
+                "avg_rtt": 27.187348631462353,
+                "avg_cwnd": 53.41332596074095,
+                "avg_rttvar": 1.43377108100637,
+                "retransmissions": 87,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 26.57638260869565,
+                "avg_probe_timer": 73.52344316309726,
+                "avg_retrans_timer": 229.62123306607685,
+                "loss_triggers": {
+                    "time_threshold": 42
+                }
+            },
+            {
+                "avg_goodput": 17360.853241513356,
+                "avg_throughput": 18628.862915082784,
+                "avg_rtt": 27.206785909338997,
+                "avg_cwnd": 53.56908793009285,
+                "avg_rttvar": 1.5098661933369768,
+                "retransmissions": 87,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 27.0002994011976,
+                "avg_probe_timer": 73.95254202401362,
+                "avg_retrans_timer": 229.6624795193883,
+                "loss_triggers": {
+                    "time_threshold": 42
+                }
+            },
+            {
+                "avg_goodput": 17399.552355627624,
+                "avg_throughput": 18670.36757616715,
+                "avg_rtt": 27.232275579808846,
+                "avg_cwnd": 53.55279672578445,
+                "avg_rttvar": 1.4895279672578545,
+                "retransmissions": 87,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 26.8794371257485,
+                "avg_probe_timer": 73.81099313893658,
+                "avg_retrans_timer": 229.69276944065484,
+                "loss_triggers": {
+                    "time_threshold": 42
+                }
+            }
+        ]
+    },
+    {
+        "name": "tcpebpf/dl10_bw20_q16-48",
+        "sim": "qns",
+        "mdn_goodput": 17057.551965123213,
+        "mdn_throughput": 17870.978017239708,
+        "mdn_rtt": 23.999465915190566,
+        "mdn_cwnd": 44.84953395472703,
+        "mdn_rttvar": 1.3984043944546163,
+        "mdn_retransmissions": 37,
+        "mdn_spurious_retrans": 3,
+        "mdn_rack_timer": 21.47477474402731,
+        "mdn_probe_timer": 63.47587947269295,
+        "mdn_retrans_timer": 226.50134192163176,
+        "runs": [
+            {
+                "avg_goodput": 17013.669326846208,
+                "avg_throughput": 17809.519706489104,
+                "avg_rtt": 23.99479989537017,
+                "avg_cwnd": 44.762228616269944,
+                "avg_rttvar": 1.3984043944546163,
+                "retransmissions": 31,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 22.013200000000015,
+                "avg_probe_timer": 64.55229111531196,
+                "avg_retrans_timer": 226.40753335077164,
+                "loss_triggers": {
+                    "time_threshold": 21
+                }
+            },
+            {
+                "avg_goodput": 17037.88674886292,
+                "avg_throughput": 17846.24271215018,
+                "avg_rtt": 23.999465915190566,
+                "avg_cwnd": 44.81213097155126,
+                "avg_rttvar": 1.3512050456253333,
+                "retransmissions": 36,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.59714079422382,
+                "avg_probe_timer": 63.526117647058754,
+                "avg_retrans_timer": 226.50134192163176,
+                "loss_triggers": {
+                    "time_threshold": 22
+                }
+            },
+            {
+                "avg_goodput": 17059.773139914316,
+                "avg_throughput": 17870.978017239708,
+                "avg_rtt": 23.899102529960054,
+                "avg_cwnd": 44.84953395472703,
+                "avg_rttvar": 1.4325832223701738,
+                "retransmissions": 37,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.47477474402731,
+                "avg_probe_timer": 63.47587947269295,
+                "avg_retrans_timer": 226.36910785619173,
+                "loss_triggers": {
+                    "time_threshold": 23
+                }
+            },
+            {
+                "avg_goodput": 17057.551965123213,
+                "avg_throughput": 17873.246998727056,
+                "avg_rtt": 24.020064481461624,
+                "avg_cwnd": 45.07898979043525,
+                "avg_rttvar": 1.399650725416444,
+                "retransmissions": 39,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.31480333333333,
+                "avg_probe_timer": 63.13827090909098,
+                "avg_retrans_timer": 226.5104782375067,
+                "loss_triggers": {
+                    "time_threshold": 23
+                }
+            },
+            {
+                "avg_goodput": 17075.213913807027,
+                "avg_throughput": 17891.713625969853,
+                "avg_rtt": 24.010913242009146,
+                "avg_cwnd": 45.10582863282299,
+                "avg_rttvar": 1.365441847972064,
+                "retransmissions": 39,
+                "spurious_retrans": 3,
+                "avg_rack_timer": 21.42370370370369,
+                "avg_probe_timer": 63.30386542056069,
+                "avg_retrans_timer": 226.5033575073865,
+                "loss_triggers": {
+                    "time_threshold": 22
+                }
+            }
+        ]
+    }
+]
