@@ -9,10 +9,6 @@ The test framework used to generate the different results can be found here: htt
 
 The `metric.json` files can be used with the Dataviewer to convert them to a table format: https://github.com/moonfalir/dataviewer
 
-## Directories
-
-The number at the beginning indicates the order which the test results appear in the thesis
-
 ## QUIC Servers
 
 For QUIC we used two different implementations which were modified, they can be found here:
